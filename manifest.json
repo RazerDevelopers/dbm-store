@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "bots": []
+  "bots": [
+    {
+      "id": "gta-timer-bot",
+      "name": "Gta Timer Bot",
+      "description": "GTAのタイマーBOT",
+      "version": "1.0.0",
+      "author": "RazerDevelopers",
+      "downloadUrl": "https://raw.githubusercontent.com/RazerDevelopers/dbm-store/main/bots/gta_timer_bot_v1.0.0.dbmpack"
+    }
+  ]
 }
