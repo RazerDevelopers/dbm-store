@@ -8,6 +8,14 @@
       "version": "1.0.7",
       "author": "RazerDevelopers",
       "downloadUrl": "https://raw.githubusercontent.com/RazerDevelopers/dbm-store/main/bots/gta_timer_bot_v1.0.7.dbmpack"
+    },
+    {
+      "id": "ongakun",
+      "name": "おんがくん",
+      "description": "音楽BOTのおんがくんです。",
+      "version": "1.0.0",
+      "author": "RazerDevelopers",
+      "downloadUrl": "https://raw.githubusercontent.com/RazerDevelopers/dbm-store/main/bots/ongakun_v1.0.0.dbmpack"
     }
   ]
 }
