@@ -10,6 +10,14 @@
       "downloadUrl": "https://raw.githubusercontent.com/RazerDevelopers/dbm-store/main/bots/gta_timer_bot_v1.0.7.dbmpack"
     },
     {
+      "id": "yomiage_pacchan",
+      "name": "読み上げ！ぱっちゃん",
+      "description": "読み上げボットの読み上げぱっちゃんです！",
+      "version": "1.0.0",
+      "author": "RazerDevelopers",
+      "downloadUrl": "https://github.com/RazerDevelopers/dbm-store/releases/download/v1.0.0_yomiage_pacchan/yomiage_pacchan_v1.0.0.dbmpack"
+    },
+    {
       "id": "ongakun",
       "name": "おんがくん",
       "description": "音楽BOTのおんがくんです。",
