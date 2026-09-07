@@ -4,26 +4,34 @@
     {
       "id": "gta-timer-bot",
       "name": "Gta Timer Bot",
-      "description": "GTAのタイマーBOT",
+      "description": "GTA\u306E\u30BF\u30A4\u30DE\u30FCBOT",
       "version": "1.0.7",
       "author": "RazerDevelopers",
       "downloadUrl": "https://raw.githubusercontent.com/RazerDevelopers/dbm-store/main/bots/gta_timer_bot_v1.0.7.dbmpack"
     },
     {
       "id": "yomiage_pacchan",
-      "name": "読み上げ！ぱっちゃん",
-      "description": "読み上げボットの読み上げぱっちゃんです！",
+      "name": "\u8AAD\u307F\u4E0A\u3052\uFF01\u3071\u3063\u3061\u3083\u3093",
+      "description": "\u8AAD\u307F\u4E0A\u3052\u30DC\u30C3\u30C8\u306E\u8AAD\u307F\u4E0A\u3052\u3071\u3063\u3061\u3083\u3093\u3067\u3059\uFF01",
       "version": "1.0.1",
       "author": "RazerDevelopers",
       "downloadUrl": "https://github.com/RazerDevelopers/dbm-store/releases/download/v1.0.1_yomiage_pacchan/yomiage_pacchan_v1.0.1.dbmpack"
     },
     {
       "id": "ongakun",
-      "name": "おんがくん",
-      "description": "音楽BOTのおんがくんです。",
+      "name": "\u304A\u3093\u304C\u304F\u3093",
+      "description": "\u97F3\u697DBOT\u306E\u304A\u3093\u304C\u304F\u3093\u3067\u3059\u3002",
       "version": "1.0.2",
       "author": "RazerDevelopers",
       "downloadUrl": "https://github.com/RazerDevelopers/dbm-store/releases/download/v1.0.2-ongakun/ongakun_v1.0.2.dbmpack"
+    },
+    {
+      "id": "DownloaderKun",
+      "name": "DownloaderKun",
+      "description": "",
+      "version": "1.0.0",
+      "author": "RazerDevelopers",
+      "downloadUrl": "https://github.com/RazerDevelopers/dbm-store/releases/download/v1.0.0_DownloaderKun/DownloaderKun_v1.0.0.dbmpack"
     }
   ]
 }
